@@ -5,3 +5,12 @@ body {
   padding: 3rem 1.5rem;
   text-align: center;
 }
+.bg-dark{
+  background-color:tomato !important;
+}
+.navbar-dark.navbar-brand{
+  color: black;
+}
+.btn-primary{
+  background-color: pink;
+}
